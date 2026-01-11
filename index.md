@@ -36,17 +36,19 @@ asn_queries/
 
 <details id="section2">
   <summary>Détails des modules</summary>
-io.py
+***
+### io.py
 
 Gestion des entrées/sorties.
 Création du dossier queries/.
-asn.py
+***
+### asn.py
 
 Analyse des ASN (Core/Branch).
 </details>
 
 <details id="section3">
   <summary>Exécution du script</summary>
-python3 asn_queries/scripts/main.py
+`python3 asn_queries/scripts/main.py`
 </details>
 
