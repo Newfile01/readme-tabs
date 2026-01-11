@@ -10,7 +10,7 @@ title: Documentation ASN Queries
 
 <details id="accueil">
   <summary>Accueil</summary>
-  Bienvenue sur la documentation du projet **ASN Queries** .
+  Bienvenue sur la documentation du projet **ASN Queries**
 </details>
 
 ---
