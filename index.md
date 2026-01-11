@@ -8,7 +8,7 @@ title: Documentation ASN Queries
 
 ---
 
-<details id="accueil" open>
+<details id="accueil">
   <summary>Accueil</summary>
   Bienvenue sur la documentation du projet **ASN Queries**.
 </details>
