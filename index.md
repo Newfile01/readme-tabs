@@ -18,20 +18,20 @@ title: Documentation ASN Queries
 <details id="section1">
   <summary>Arborescence du projet</summary>
 
-  ```text
-  asn_queries/
-  ├── scripts/
-  │   ├── __init__.py
-  │   ├── io.py
-  │   ├── asn.py
-  │   ├── paths.py
-  │   └── main.py
-  └── queries/
-      ├── asn_present.txt
-      ├── asn_core.txt
-      ├── asn_branch.txt
-      └── asn_longest_path.txt
-
+```
+asn_queries/
+├── scripts/
+│   ├── __init__.py
+│   ├── io.py
+│   ├── asn.py
+│   ├── paths.py
+│   └── main.py
+└── queries/
+    ├── asn_present.txt
+    ├── asn_core.txt
+    ├── asn_branch.txt
+    └── asn_longest_path.txt
+```
 </details>
 
 <details id="section2">
