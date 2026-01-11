@@ -9,14 +9,14 @@ title: Documentation ASN Queries
 ---
 
 <details id="accueil">
-  <summary>Accueil</summary>
+  <summary><h2>Accueil</h2></summary>
   Bienvenue sur la documentation du projet **ASN Queries**
 </details>
 
 ---
 
 <details id="section1">
-  <summary>Arborescence du projet</summary>
+  <summary><h2>Arborescence du projet</h2></summary>
 
 ```
 asn_queries/
@@ -35,8 +35,8 @@ asn_queries/
 </details>
 
 <details id="section2">
-  <summary>Détails des modules</summary>
-***
+  <summary><h2>Détails des modules</h2></summary>
+  
 ### io.py
 
 Gestion des entrées/sorties.
@@ -48,7 +48,7 @@ Analyse des ASN (Core/Branch).
 </details>
 
 <details id="section3">
-  <summary>Exécution du script</summary>
+  <summary><h2>Exécution du script</h2></summary>
 `python3 asn_queries/scripts/main.py`
 </details>
 
